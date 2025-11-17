@@ -1,7 +1,42 @@
-CompetenciaDatos
-==============================
+# 📈 Crecimiento Esperado de las Empresas del País por Sector  
+### Participación en Datos al Ecosistema 2025
 
-Proyecto para la competencia Datos al Ecosistemas 2025 de datos.gov.co
+## 🏆 Sobre el proyecto  
+Este repositorio corresponde a nuestra participación en **Datos al Ecosistema 2025**, una iniciativa de la Universidad Nacional de Colombia que busca transformar los datos abiertos en soluciones con impacto real.  
+Desarrollamos este proyecto como respuesta al reto **“Crecimiento esperado de las empresas del país por sector”**, enfocado en estimar el crecimiento económico empresarial de Colombia a partir de información histórica.
+
+---
+
+## 🧩 Descripción del reto  
+Actualmente, las entidades cuentan con reportes y cortes anuales que permiten entender *qué pasó* con las empresas, pero no disponen de un mecanismo predictivo que anticipe *qué pasará* en términos de crecimiento sectorial, proyecciones de ganancias o dispersión entre empresas.
+
+El reto propone construir una solución basada en analítica descriptiva y predictiva para responder preguntas estratégicas como:
+- ¿Qué sectores tienen mayor potencial de rentabilidad?
+- ¿Cómo se proyectan las ganancias según tamaño o ubicación empresarial?
+- ¿Qué patrones se evidencian entre sectores económicos?
+
+---
+
+## 🎯 Objetivo General  
+Desarrollar un **modelo predictivo** capaz de estimar las **ganancias proyectadas** de las empresas del país, complementado con un **dashboard interactivo** que facilite la toma de decisiones estratégicas basadas en datos.
+
+---
+
+## 🔍 Objetivos Específicos  
+
+- **OE1.** Limpiar, procesar y analizar el set de datos de las 10.000 empresas más grandes del país.  
+- **OE2.** Explorar técnicas de *machine learning* para generar un modelo predictivo de ganancias o crecimiento.  
+- **OE3.** Validar el modelo mediante métricas de desempeño.  
+- **OE4.** Desarrollar un dashboard interactivo que permita consultar resultados por sector, ubicación o tamaño empresarial.  
+- **OE5.** Generar una herramienta que apoye la toma de decisiones basada en datos.  
+
+---
+
+## 🚀 Impacto esperado  
+- Fortalecer la capacidad institucional para analizar y proyectar el desempeño empresarial.  
+- Identificar sectores con mayor potencial de crecimiento económico.  
+- Facilitar la visualización de proyecciones y comparativas mediante herramientas interactivas.  
+
 
 Project Organization
 ------------
