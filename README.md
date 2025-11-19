@@ -32,13 +32,32 @@ Desarrollar un **modelo predictivo** capaz de estimar las **ganancias proyectada
 
 ---
 
-## 🚀 Impacto esperado  
+## 🤯 Impacto esperado  
 - Fortalecer la capacidad institucional para analizar y proyectar el desempeño empresarial.  
 - Identificar sectores con mayor potencial de crecimiento económico.  
 - Facilitar la visualización de proyecciones y comparativas mediante herramientas interactivas.  
 
+## 🚀 Instalación y Configuración  
 
-Project Organization
+```bash
+# Clonar repositorio
+git clone https://github.com/JeroHoyos/Expected-Growth-of-the-Country-s-Companies-by-Sector
+
+# Entrar al directorio del Desarrollo
+cd Expected-Growth-of-the-Country-s-Companies-by-Sector
+
+# Crear entorno virtual (Python)
+python -m venv .venv
+source venv/bin/activate  # Linux/Mac
+.venv\Scripts\activate    # Windows
+
+# Instalar dependencias
+pip install -r requirements.txt
+
+```
+
+## Project Organization
+
 ------------
 
     ├── LICENSE
